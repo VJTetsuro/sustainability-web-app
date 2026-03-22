@@ -27,5 +27,16 @@ The system dynamically loads content using JavaScript and stores user data via a
 
 ---
 
+## My Contributions
+
+- Contributed to both frontend and backend development of the application  
+- Worked with HTML, CSS, and JavaScript to build responsive and user-friendly web pages  
+- Implemented dynamic content loading using the Fetch API and JSON  
+- Assisted in developing server-side functionality using Node.js and Express  
+- Helped implement form handling, including validation and data submission  
+- Collaborated within a team using Git and version control
+
+---
+
 ## Team Project
 This was a collaborative university project. This repository highlights my contributions and understanding of full-stack web development.
